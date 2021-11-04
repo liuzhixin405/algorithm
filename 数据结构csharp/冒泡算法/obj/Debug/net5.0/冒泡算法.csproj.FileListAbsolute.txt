@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\bin\Debug\net5.0\冒泡算法.exe
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\bin\Debug\net5.0\冒泡算法.deps.json
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\bin\Debug\net5.0\冒泡算法.runtimeconfig.json
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\bin\Debug\net5.0\冒泡算法.runtimeconfig.dev.json
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\bin\Debug\net5.0\冒泡算法.dll
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\bin\Debug\net5.0\ref\冒泡算法.dll
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\bin\Debug\net5.0\冒泡算法.pdb
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\冒泡算法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\冒泡算法.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\冒泡算法.AssemblyInfo.cs
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\冒泡算法.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\冒泡算法.dll
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\ref\冒泡算法.dll
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\冒泡算法.pdb
+C:\Users\admin\source\repos\algorithm.demo\冒泡算法\obj\Debug\net5.0\冒泡算法.genruntimeconfig.cache
