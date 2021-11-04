@@ -1,0 +1,3 @@
+﻿  CppArray.cpp
+C:\Users\admin\source\repos\CppArray\CppArray\CppArray.cpp(151): warning C4715: “delete_arr”: 不是所有的控件路径都返回值
+  CppArray.vcxproj -> C:\Users\admin\source\repos\CppArray\x64\Debug\CppArray.exe

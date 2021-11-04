@@ -1,0 +1,3 @@
+﻿  QueueCpp.cpp
+C:\Users\admin\source\repos\QueueCpp\QueueCpp\QueueCpp.cpp(84): warning C4715: “out_queue”: 不是所有的控件路径都返回值
+  QueueCpp.vcxproj -> C:\Users\admin\source\repos\QueueCpp\x64\Debug\QueueCpp.exe

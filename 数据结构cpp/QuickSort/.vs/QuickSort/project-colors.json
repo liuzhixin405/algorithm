@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8856fc51-cab6-4129-9ed8-dbfe70290dea": {
+      "ProjectGuid": "8856fc51-cab6-4129-9ed8-dbfe70290dea",
+      "DisplayName": "QuickSort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

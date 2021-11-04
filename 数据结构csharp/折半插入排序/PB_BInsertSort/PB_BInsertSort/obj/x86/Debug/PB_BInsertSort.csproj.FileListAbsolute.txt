@@ -1,0 +1,10 @@
+D:\数据结构 Topic03\PB_BInsertSort\PB_BInsertSort\bin\Debug\PB_BInsertSort.exe
+D:\数据结构 Topic03\PB_BInsertSort\PB_BInsertSort\bin\Debug\PB_BInsertSort.pdb
+D:\数据结构 Topic03\PB_BInsertSort\PB_BInsertSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\数据结构 Topic03\PB_BInsertSort\PB_BInsertSort\obj\x86\Debug\PB_BInsertSort.exe
+D:\数据结构 Topic03\PB_BInsertSort\PB_BInsertSort\obj\x86\Debug\PB_BInsertSort.pdb
+F:\Temp\授课代码\PB_BInsertSort\PB_BInsertSort\bin\Debug\PB_BInsertSort.exe
+F:\Temp\授课代码\PB_BInsertSort\PB_BInsertSort\bin\Debug\PB_BInsertSort.pdb
+F:\Temp\授课代码\PB_BInsertSort\PB_BInsertSort\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Temp\授课代码\PB_BInsertSort\PB_BInsertSort\obj\x86\Debug\PB_BInsertSort.exe
+F:\Temp\授课代码\PB_BInsertSort\PB_BInsertSort\obj\x86\Debug\PB_BInsertSort.pdb

@@ -1,0 +1,5 @@
+D:\DataStructure\LinearList\bin\Debug\LinearList.exe
+D:\DataStructure\LinearList\bin\Debug\LinearList.pdb
+D:\DataStructure\LinearList\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataStructure\LinearList\obj\x86\Debug\LinearList.exe
+D:\DataStructure\LinearList\obj\x86\Debug\LinearList.pdb
